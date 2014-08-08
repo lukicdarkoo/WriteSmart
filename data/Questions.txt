@@ -1,0 +1,35 @@
+Decimalni broj 10 u binarni?
+111
+1010
+10100
+1
+Vrijednost konstante e?
+2,71
+3,14
+2
+0
+Ime autora igrice?
+Marko
+Pero
+Darko
+2
+0xAB u odnosu na 10101011 je?
+Vece
+Manje
+Isto
+2
+Koliko bodova nosi ovaj projekat?
+30
+40
+70
+0
+Linuxov kompajler?
+Mingw
+GCC
+Intel
+1
+Maks. izlazna struja na USB2?
+200mA
+500mA
+800mA
+1
